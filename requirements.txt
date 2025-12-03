@@ -1,0 +1,7 @@
+tk
+pillow
+matplotlib
+pandas
+numpy
+reportlab
+fpdf
