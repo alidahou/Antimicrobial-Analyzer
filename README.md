@@ -136,12 +136,14 @@ streamlit run app.py
 
 🖼 Screenshots
 
+assets/screenshots/Capture d’écran (216).png
 
-
+assets/screenshots/Capture d’écran (217).png
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 📜 License
 
 Distributed under the MIT License.
+
 
