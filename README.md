@@ -124,13 +124,19 @@ PGI tables
 
 🛠 Installation
 
-git clone https://github.com/yourusername/Antimicrobial-Analyzer.git
+1️⃣ Clone the repository
 
+git clone https://github.com/alidahou/Antimicrobial-Analyzer
 cd Antimicrobial-Analyzer
+
+2️⃣ Install dependencies
 
 pip install -r requirements.txt
 
-streamlit run app.py
+▶️ Run the App
+
+python app.py
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -147,6 +153,7 @@ streamlit run app.py
 📜 License
 
 Distributed under the MIT License.
+
 
 
 
