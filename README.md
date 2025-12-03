@@ -1,4 +1,4 @@
-📌 Antimicrobial Analyzer – Halophilic Bacteria vs Phytopathogenic Fungi
+📌 Antifungal/Antimicrobial Activity Analyzer
 
 A research tool for antifungal activity analysis and PGI% computation
 
@@ -42,7 +42,7 @@ Compare multiple halophilic bacterial isolates against several fungi species
 
 Calculate Percentage Growth Inhibition (PGI%) using the formula:
 
-PGI=(𝐾𝑅−𝑅1)/𝐾𝑅×100
+PGI% = (KR - R1) / KR × 100
 
 where:
 KR → Average radial growth (mm) of the fungus in the control plate
@@ -147,6 +147,7 @@ streamlit run app.py
 📜 License
 
 Distributed under the MIT License.
+
 
 
 
