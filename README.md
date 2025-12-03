@@ -136,14 +136,17 @@ streamlit run app.py
 
 🖼 Screenshots
 
-assets/screenshots/Capture d’écran (216).png
+### 🧪 Data Entry Interface
+![Data Entry](assets/screenshots/data_entry.png)
 
-assets/screenshots/Capture d’écran (217).png
+### 📈 PGI Statistics
+![PGI Stats](assets/screenshots/pgi_tab.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 📜 License
 
 Distributed under the MIT License.
+
 
 
